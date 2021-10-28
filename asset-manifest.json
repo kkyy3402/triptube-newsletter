@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/triptube-newsletter/static/css/main.20b84722.chunk.css",
-    "main.js": "/triptube-newsletter/static/js/main.d41e3776.chunk.js",
-    "runtime-main.js": "/triptube-newsletter/static/js/runtime-main.f38d7718.js",
-    "static/js/2.e4e1f120.chunk.js": "/triptube-newsletter/static/js/2.e4e1f120.chunk.js",
-    "static/js/3.b2c054cf.chunk.js": "/triptube-newsletter/static/js/3.b2c054cf.chunk.js",
-    "index.html": "/triptube-newsletter/index.html",
-    "static/js/2.e4e1f120.chunk.js.LICENSE.txt": "/triptube-newsletter/static/js/2.e4e1f120.chunk.js.LICENSE.txt",
-    "static/media/marker_background.593c822d.png": "/triptube-newsletter/static/media/marker_background.593c822d.png",
-    "static/media/timeline_thumb_img.7994ff89.png": "/triptube-newsletter/static/media/timeline_thumb_img.7994ff89.png",
-    "static/media/timeline_thumb_img2.47c9b431.png": "/triptube-newsletter/static/media/timeline_thumb_img2.47c9b431.png",
-    "static/media/timeline_thumb_img3.6117989e.png": "/triptube-newsletter/static/media/timeline_thumb_img3.6117989e.png"
+    "main.css": "/static/css/main.20b84722.chunk.css",
+    "main.js": "/static/js/main.3436bc86.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.83c3b405.js",
+    "static/js/2.979fe917.chunk.js": "/static/js/2.979fe917.chunk.js",
+    "static/js/3.b2c054cf.chunk.js": "/static/js/3.b2c054cf.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.979fe917.chunk.js.LICENSE.txt": "/static/js/2.979fe917.chunk.js.LICENSE.txt",
+    "static/media/marker_background.593c822d.png": "/static/media/marker_background.593c822d.png",
+    "static/media/timeline_thumb_img.7994ff89.png": "/static/media/timeline_thumb_img.7994ff89.png",
+    "static/media/timeline_thumb_img2.47c9b431.png": "/static/media/timeline_thumb_img2.47c9b431.png",
+    "static/media/timeline_thumb_img3.6117989e.png": "/static/media/timeline_thumb_img3.6117989e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f38d7718.js",
-    "static/js/2.e4e1f120.chunk.js",
+    "static/js/runtime-main.83c3b405.js",
+    "static/js/2.979fe917.chunk.js",
     "static/css/main.20b84722.chunk.css",
-    "static/js/main.d41e3776.chunk.js"
+    "static/js/main.3436bc86.chunk.js"
   ]
 }
